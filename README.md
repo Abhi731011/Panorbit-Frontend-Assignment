@@ -9,12 +9,7 @@ I have completed a frontend assignment using a variety of technologies including
    <li>Tailwind Css</li>
    <li>Chakra-Ui</li>
  
-<h1>
-    
-   <h1>Deployment Link: <span> https://abhi731011.github.io/Panorbit-Frontend-Assignment/</span></h1>
-   
-   
-   
+<h1>   
 
 Landing Page
 ![panorbit-1-img](https://user-images.githubusercontent.com/97114184/224637210-4b0a2998-c40c-4d68-9f18-3ef7aa8feb10.png)

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Panorbit-Frontend-Assignment/static/css/main.2586fdff.css",
+    "main.js": "/Panorbit-Frontend-Assignment/static/js/main.5e681ff3.js",
+    "static/js/787.c8a4a8c5.chunk.js": "/Panorbit-Frontend-Assignment/static/js/787.c8a4a8c5.chunk.js",
+    "static/media/home.png": "/Panorbit-Frontend-Assignment/static/media/home.e7f82aa8a7d8d9b7100d.png",
+    "index.html": "/Panorbit-Frontend-Assignment/index.html",
+    "main.2586fdff.css.map": "/Panorbit-Frontend-Assignment/static/css/main.2586fdff.css.map",
+    "main.5e681ff3.js.map": "/Panorbit-Frontend-Assignment/static/js/main.5e681ff3.js.map",
+    "787.c8a4a8c5.chunk.js.map": "/Panorbit-Frontend-Assignment/static/js/787.c8a4a8c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2586fdff.css",
+    "static/js/main.5e681ff3.js"
+  ]
+}

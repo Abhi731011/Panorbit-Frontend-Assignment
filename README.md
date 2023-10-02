@@ -1,4 +1,4 @@
-I have completed a frontend assignment using a variety of technologies including HTML, CSS, JavaScript, React, Tailwind CSS, and Chakra UI. My project includes a user-friendly interface with visually appealing elements. I utilized the latest web development practices to create a modern and efficient application.
+I have completed a frontend assignment using a variety of technologies including HTML, CSS, JavaScript, React, Tailwind CSS . My project includes a user-friendly interface with visually appealing elements.
 
 <h1>Tech Used</h1>
 
@@ -7,7 +7,7 @@ I have completed a frontend assignment using a variety of technologies including
    <li>JavaScript</li>
    <li>RectJs</li>
    <li>Tailwind Css</li>
-   <li>Chakra-Ui</li>
+
  
 <h1>   
 <h2>Deployment Link</h2><spam>https://panorbit-frontend-assignment-zeta.vercel.app/</spam>
